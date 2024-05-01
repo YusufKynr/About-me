@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YusufKynr
 - 👀 I’m interested in coding,motorsports,basketball and fitness
-- 🌱 I’m currently learning html,css
 - 📫 You can reach me : yusuf.kaynar18@hotmail.com
 
 <!---
